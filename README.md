@@ -2,9 +2,11 @@
 
 **Was bedeutet Data Science für den Informatikunterricht?**
 
-Materialien und Impulse für den Einsatz von Data Science im schulischen Informatikunterricht. Erstellt im Rahmen eines Vortrags Lehrkräfte im Fach Informatik an Berliner Schulen.
+Materialien und Impulse für den Einsatz von Data Science im schulischen Informatikunterricht. Erstellt im Rahmen eines Vortrags für Informatik-Führungskräfte an Berliner Oberschulen.
 
 ## Inhalte
+
+Was bedeutet Data Science für den Informatikunterricht? Der Vortrag führt in die Grundlagen und neueren Entwicklungen der Disziplin ein, zeigt reale Anwendungsfälle aus der Wirtschaft und erklärt Konzepte wie überwachte Lernverfahren, Embeddings und semantische Suche. Daraus werden konkrete Impulse und Werkzeuge für einen zeitgemäßen Informatikunterricht abgeleitet.
 
 - Präsentation des Vortrags
 - Vertiefung 1: Preisprognosen für Berliner Ferienwohnungen 
