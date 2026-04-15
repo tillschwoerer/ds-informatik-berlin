@@ -10,6 +10,10 @@ Materialien und Impulse für den Einsatz von Data Science im schulischen Informa
 - Vertiefung 1: Preisprognosen für Berliner Ferienwohnungen 
 - Vertiefung 2: Sprache als Datenschatz (speziell Wortvektoren)
 
+## Masterstudiengang Data Science der HAW Kiel
+Mehr Informationen zum Masterstudiengang Data Science an der HAW Kiel finden Sie hier: https://www.haw-kiel.de/studium/studienangebot/data-science/
+
+
 
 ## Lizenz
 
